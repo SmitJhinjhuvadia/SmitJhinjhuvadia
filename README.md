@@ -95,9 +95,7 @@
 <img src="https://raw.githubusercontent.com/SmitJhinjhuvadia/SmitJhinjhuvadia/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-> ⚙️ **Setup note:** The snake animation isn't automatic — it needs a small GitHub Action in this same repo. Ask me and I'll give you the exact workflow file to add (`.github/workflows/snake.yml`); once it runs once, this image will populate itself.
 
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
