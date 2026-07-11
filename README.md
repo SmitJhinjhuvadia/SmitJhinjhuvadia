@@ -1,37 +1,104 @@
-<h1 align="center">Hi, I'm Smit Jhinjhuvadia 👋</h1>
-<h3 align="center">Full Stack Web Developer in the making | B.Tech CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Building+clean%2C+functional+web+apps;Django+%2B+Python+backend+developer;Learning+React%2C+Node.js+%26+Express;Always+shipping+something+new" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Smit%20Jhinjhuvadia&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+;Building+clean%2C+functional+web+apps;Python+%2B+Django+backend+developer;Currently+learning+React%2C+Node.js+%26+Express;Always+shipping+something+new" alt="Typing SVG" />
 
-# 💫 About Me:
-👋 Hi, I'm Smit Jhinjhuvadia!<br><br>💻 Passionate Full Stack Web Developer and B.Tech Computer Science student from India.<br><br>🚀 Experienced with:<br>HTML • CSS • JavaScript • Bootstrap • Python • Django • React.js • Next.js • Node.js • Express.js • MongoDB • MySQL<br><br>🌱 Currently improving my expertise in Backend Development, RESTful APIs, Authentication, Database Optimization, System Design, and Cloud Technologies.<br><br>🤝 Open to collaborating on Full Stack Web Development, Open Source, and AI-driven projects.<br><br>💬 Ask me about React.js, Django, Node.js, Express.js, MongoDB, MySQL, JavaScript, Git, and GitHub.<br><br>🎯 Aspiring Software Engineer focused on building scalable, efficient, and user-friendly web applications.<br><br>⚡ I love solving real-world problems through code and continuously expanding my technical skills.
+<img src="https://komarev.com/ghpvc/?username=SmitJhinjhuvadia&label=Profile%20Views&color=D4AF37&style=flat" alt="profile views"/>
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smit-jhinjhuvadia-27307b340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smitjhinjh@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SmitJhinjhuvadia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SmitJhinjhuvadia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SmitJhinjhuvadia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👋 About Me
+
+- 🎓 B.Tech Computer Science & Engineering student at **Marwadi University**, Rajkot (2024–2028)
+- 💻 Building toward a career in **full-stack web development**
+- 🛠️ Comfortable with **HTML, CSS, Bootstrap, JavaScript, Python, Django, MongoDB, MySQL, Git**
+- 🌱 Currently learning **React.js, Node.js & Express.js**
+- 📊 Also exploring **data science** — NumPy, Pandas, Matplotlib, scikit-learn (via Google Colab)
+- 🚀 Building portfolio projects like **FinFlow** (expense/budget tracker)
+- 🤝 Open to internship opportunities and collaboration on web dev projects
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitjhinjhuvadia-27307b340)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjhinjhu@gmail.com)
+
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+**Languages & Core**
+
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**🌱 Currently Learning**
+
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Data Science Exploration**
+
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=SmitJhinjhuvadia&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SmitJhinjhuvadia&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=SmitJhinjhuvadia&theme=radical&hide_border=true" width="60%"/>
+
+</div>
+
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SmitJhinjhuvadia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=SmitJhinjhuvadia&theme=radical&no-frame=true&margin-w=8&row=1" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### ✍️ Random Dev Quote
+<br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/SmitJhinjhuvadia/SmitJhinjhuvadia/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
-<p align="center"><i>Thanks for stopping by — always open to connecting on interesting projects! 🚀</i></p>
+> ⚙️ **Setup note:** The snake animation isn't automatic — it needs a small GitHub Action in this same repo. Ask me and I'll give you the exact workflow file to add (`.github/workflows/snake.yml`); once it runs once, this image will populate itself.
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
